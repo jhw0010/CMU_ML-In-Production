@@ -1,5 +1,6 @@
 # CMU_Machine Learning In Production_Self-study
-
+**Author:** Jinhong Wu  
+**GitHub:** [@jhw0010](https://github.com/jhw0010)
 Self-study implementation of CMU's **17-645 Machine Learning in Production** (Spring 2026 semester). Building production-ready ML systems: MLOps, testing, deployment, responsible AI, and scalable infrastructure.
 
 ## 📚 Course Information
