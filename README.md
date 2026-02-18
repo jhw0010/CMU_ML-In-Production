@@ -26,7 +26,17 @@ Building production-ready ML systems including:
 
 ## ⚖️ License & Attribution
 
-CMU course materials used under Creative Commons license. Original materials © CMU Faculty. My implementations and solutions are MIT licensed.
+**Course Materials:**  
+Original materials from CMU's Machine Learning in Production course (17-645/11-695) are used under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+**Course Website:** https://mlip-cmu.github.io/  
+**Original Materials:** https://github.com/mlip-cmu/s2026
+
+**My Work:**  
+My solutions, implementations, and modifications are released under MIT License.
+
+**Status:**  
+This is independent self-study work. I am not enrolled in the course and do not claim any affiliation with CMU.
 
 ---
 
